@@ -8,4 +8,4 @@ This is a Minecraft 1.12.2 mod which introduces a single hostile mob, the "Ash A
 **Textures** & **Sound:** ThanasiShadoW
 
 ## License
-This project is licensed under the **GNU General Public License**.
+This project is licensed under the **GNU General Public License 3**.
