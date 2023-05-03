@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ash_abomination",
+  "name": "Abu's Ash Abomination",
+  "description": "Just a simple commissioned mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["UncleAbu", "ThanasiShadoW"],
+  "credits": "Authors of this project",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

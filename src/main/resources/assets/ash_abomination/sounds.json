@@ -1,0 +1,20 @@
+{
+  "ash_abomination_ambient": {
+    "subtitle": "subtitles.ash_abomination_ambient",
+    "sounds": [
+      "ash_abomination:ash_abomination_ambient1",
+      "ash_abomination:ash_abomination_ambient2"
+    ]
+  },
+  "ash_abomination_hit": {
+    "subtitle": "subtitles.ash_abomination_hit",
+    "sounds": [
+      "ash_abomination:ash_abomination_hit1",
+      "ash_abomination:ash_abomination_hit2"
+    ]
+  },
+  "ash_abomination_death": {
+    "subtitle": "subtitles.ash_abomination_death",
+    "sounds": ["ash_abomination:ash_abomination_death"]
+  }
+}
